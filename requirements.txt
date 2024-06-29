@@ -1,5 +1,4 @@
 openai
-torch
 flask
 fastapi
 opencv-python
