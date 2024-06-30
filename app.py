@@ -216,7 +216,7 @@ def create_response():
     data = request.json
 
     decrypted_text = decrypt_message(data['Request'], SECRET_KEY)
-    response_text =  predict(text=decrypted_text)
+    response_text = predict(text=decrypted_text)
     encrypted_text = encrypt_message(response_text, SECRET_KEY)
 
 
@@ -224,6 +224,7 @@ def create_response():
         'Session_ID': ObjectId(data['Session_ID']),
         'Request': data['Request'],
         'Response': encrypted_text,
+        'Road': "", # add data descriptive
         'Timestamp': datetime.datetime.utcnow(),
         'Create_At': datetime.datetime.utcnow(),
         'Update_At': datetime.datetime.utcnow()
