@@ -142,7 +142,7 @@ class PostgreNodeClass():
             texts.append(row[0])
             embeddings.append(row[1])
 
-        results = self.do_vector_search(query=question, embeddings=embeddings, texts=texts, k=5)
+        results = self.do_vector_search(query=question, embeddings=embeddings, texts=texts, k=200)
 
         return {'question': question, 'documents': results}
 
@@ -164,7 +164,7 @@ class PostgreNodeClass():
             texts.append(row[0])
             embeddings.append(row[1])
 
-        results = self.do_vector_search(query=question, embeddings=embeddings, texts=texts, k=5)
+        results = self.do_vector_search(query=question, embeddings=embeddings, texts=texts, k=200)
 
         return {'question': question, 'documents': results}
 
@@ -205,7 +205,7 @@ class MongoNodeClass():
 
             self.atlas_clients.append(atlas_client)
 
-    def do_vector_search(self, query: str, collection_name_parameter: str, k: int = 5) -> None:
+    def do_vector_search(self, query: str, collection_name_parameter: str, k: int = 50) -> None:
         """
         DYNAMIC VECTOR SEARCH
         """
@@ -267,7 +267,7 @@ class MongoNodeClass():
         """
         print("--- Employee Retrieving ---")
         question = state['question']
-        results = self.do_vector_search(query=question, collection_name_parameter='employee', k=5)
+        results = self.do_vector_search(query=question, collection_name_parameter='employee')
 
         print("Employee Retrieving Result: ", results)
         return_text = []
@@ -283,7 +283,7 @@ class MongoNodeClass():
         print("--- İzin Retrieving ---")
 
         question = state['question']
-        results = self.do_vector_search(query=question, collection_name_parameter='izin', k=5)
+        results = self.do_vector_search(query=question, collection_name_parameter='izin')
 
         print("İzin Retrieving Result: ", results)
         return_text = []
@@ -299,7 +299,7 @@ class MongoNodeClass():
         print("--- Servis Retrieving ---")
 
         question = state['question']
-        results = self.do_vector_search(query=question, collection_name_parameter='servis', k=7)
+        results = self.do_vector_search(query=question, collection_name_parameter='servis')
 
         print("Servis Retrieving Result: ", results)
         return_text = []
@@ -380,7 +380,7 @@ def chroma_retrieve(state):
     print("--- CHROMA RAG GENERATING ---")
     question = state['question']
 
-    results = chroma_db.similarity_search_with_relevance_scores(question, k=5)
+    results = chroma_db.similarity_search_with_relevance_scores(question, k=50)
     print("Chroma retrieved data:  ", [doc.page_content for doc, _score in results])
 
     if len(results) == 0 or results[0][1] < 0.7:
