@@ -5,26 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01941291-0a6b-4e21-a5ce-63fc4fadf456" name="Changes" comment="Requirements.txt">
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Add_data_to_Chroma_DB-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Add_data_to_Chroma_DB.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chroma_Data/Logos Avans Prosedürü V2.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chroma_Data/Logos Avans Prosedürü.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chroma_Data/Logos ERP Ticket Prosedürü.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chroma_Data/Logos Seyahat Prosedürü Sunumu.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chroma_Data/Logos_Temsil Ağırlama Prosedürü.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chroma_Data/Tekstil Şirketi Acil Yardım Prosedürü.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mongo Data/employee_list.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mongo Data/izin_List.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mongo Data/servis_list.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mongo Data/yemek_listesi.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Postre_Data/Gunluk_Uretim_Adetleri_Raporu_Tabular.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Postre_Data/Siparisler_Tabular.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph_node_defining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prompts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Add_Data_to_MongoDB-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Add_Data_to_MongoDB-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Mongo_Vectoring-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Mongo_Vectoring-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add_Data_to_MongoDB.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Add_Data_to_MongoDB.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mongo_Vectoring.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Mongo_Vectoring.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chroma_db/4dde3c98-f7a9-452f-98ba-9562055386a0/length.bin" beforeDir="false" afterPath="$PROJECT_DIR$/chroma_db/4dde3c98-f7a9-452f-98ba-9562055386a0/length.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -84,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719641722645</updated>
       <workItem from="1719641723969" duration="3447000" />
-      <workItem from="1719655896885" duration="3296000" />
+      <workItem from="1719655896885" duration="9515000" />
     </task>
     <task id="LOCAL-00001" summary="Requirements.txt">
       <option name="closed" value="true" />
