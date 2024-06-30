@@ -1,0 +1,94 @@
+[
+    {
+        "ID": 1,
+        "Plaka": "35 S 0917",
+        "Sofor Adi Soyadi": "Mehmet Ulker",
+        "Konum": "Konak"
+    },
+    {
+        "ID": 2,
+        "Plaka": "35 S 8579",
+        "Sofor Adi Soyadi": "Mustafa Yilmaz",
+        "Konum": "Karşıyaka"
+    },
+    {
+        "ID": 3,
+        "Plaka": "35 S 2454",
+        "Sofor Adi Soyadi": "Ali Durdu",
+        "Konum": "Bornova"
+    },
+    {
+        "ID": 4,
+        "Plaka": "35 S 4249",
+        "Sofor Adi Soyadi": "İsmail Bilge",
+        "Konum": "Bornova"
+    },
+    {
+        "ID": 5,
+        "Plaka": "35 S 0859",
+        "Sofor Adi Soyadi": "Yusuf Mansiz",
+        "Konum": "Buca"
+    },
+    {
+        "ID": 6,
+        "Plaka": "35 S 7997",
+        "Sofor Adi Soyadi": "Ahmet Durdu",
+        "Konum": "Balçova"
+    },
+    {
+        "ID": 7,
+        "Plaka": "35 S 1054",
+        "Sofor Adi Soyadi": "Ali Karadeniz",
+        "Konum": "Gaziemir"
+    },
+    {
+        "ID": 8,
+        "Plaka": "35 S 3608",
+        "Sofor Adi Soyadi": "Mustafa Arsoy",
+        "Konum": "Çiğli"
+    },
+    {
+        "ID": 9,
+        "Plaka": "35 S 4377",
+        "Sofor Adi Soyadi": "Hasan Demirel",
+        "Konum": "Narlıdere"
+    },
+    {
+        "ID": 10,
+        "Plaka": "35 S 0961",
+        "Sofor Adi Soyadi": "Ahmet Akar",
+        "Konum": "Bayraklı"
+    },
+    {
+        "ID": 11,
+        "Plaka": "35 S 1338",
+        "Sofor Adi Soyadi": "İsmail Arslan",
+        "Konum": "Menemen"
+    },
+    {
+        "ID": 12,
+        "Plaka": "35 S 8032",
+        "Sofor Adi Soyadi": "Hasan Karadeniz",
+        "Konum": "Urla"
+    },
+    {
+        "ID": 13,
+        "Plaka": "35 S 3550",
+        "Sofor Adi Soyadi": "Yusuf Kisakurek",
+        "Konum": "Karabağlar"
+    },
+    {
+        "ID": 14,
+        "Plaka": "35 S 3550",
+        "Sofor Adi Soyadi": "Ahmet Oktay",
+        "Konum": "Gaziemir"
+    },
+    {
+        "ID": 15,
+        "Plaka": "35 S 3550",
+        "Sofor Adi Soyadi": "Can Manay",
+        "Konum": "Konak"
+    }
+
+
+]

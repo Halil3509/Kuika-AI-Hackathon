@@ -1,0 +1,312 @@
+[
+    {
+      "gun": "1 Temmuz",
+      "corba": "Mercimek Çorbası",
+      "ana_yemek": "Tas Kebabı",
+      "yan_yemek": "Pirinç Pilavı",
+      "yogurt": "Yoğurt",
+      "salata": "Çoban Salata",
+      "meyve": "Karpuz",
+      "tatli": "Sütlaç"
+    },
+    {
+      "gun": "2 Temmuz",
+      "corba": "Domates Çorbası",
+      "ana_yemek": "Tavuk Sote",
+      "yan_yemek": "Bulgur Pilavı",
+      "yogurt": "Ayran",
+      "salata": "Mevsim Salata",
+      "meyve": "Elma",
+      "tatli": "Revani"
+    },
+    {
+      "gun": "3 Temmuz",
+      "corba": "Yayla Çorbası",
+      "ana_yemek": "Etli Bezelye",
+      "yan_yemek": "Makarna",
+      "yogurt": "Cacık",
+      "salata": "Roka Salatası",
+      "meyve": "Muz",
+      "tatli": "Kazandibi"
+    },
+    {
+      "gun": "4 Temmuz",
+      "corba": "Ezogelin Çorbası",
+      "ana_yemek": "Izgara Köfte",
+      "yan_yemek": "Şehriye Pilavı",
+      "yogurt": "Yoğurt",
+      "salata": "Göbek Salata",
+      "meyve": "Şeftali",
+      "tatli": "Baklava"
+    },
+    {
+      "gun": "5 Temmuz",
+      "corba": "Sebze Çorbası",
+      "ana_yemek": "Karnıyarık",
+      "yan_yemek": "Bulgur Pilavı",
+      "yogurt": "Ayran",
+      "salata": "Mor Lahana Salatası",
+      "meyve": "Kavun",
+      "tatli": "Kadayıf"
+    },
+    {
+      "gun": "6 Temmuz",
+      "corba": "Tarhana Çorbası",
+      "ana_yemek": "Fırında Tavuk",
+      "yan_yemek": "Makarna",
+      "yogurt": "Cacık",
+      "salata": "Sezar Salata",
+      "meyve": "Erik",
+      "tatli": "Keşkül"
+    },
+    {
+      "gun": "7 Temmuz",
+      "corba": "Tavuk Çorbası",
+      "ana_yemek": "Kuzu Tandır",
+      "yan_yemek": "Pirinç Pilavı",
+      "yogurt": "Yoğurt",
+      "salata": "Kıvırcık Salata",
+      "meyve": "Armut",
+      "tatli": "Güllaç"
+    },
+    {
+      "gun": "8 Temmuz",
+      "corba": "Mercimek Çorbası",
+      "ana_yemek": "Patatesli Tavuk",
+      "yan_yemek": "Bulgur Pilavı",
+      "yogurt": "Ayran",
+      "salata": "Domates Salatası",
+      "meyve": "Çilek",
+      "tatli": "Mozaik Pasta"
+    },
+    {
+      "gun": "9 Temmuz",
+      "corba": "Şehriye Çorbası",
+      "ana_yemek": "İzmir Köfte",
+      "yan_yemek": "Makarna",
+      "yogurt": "Cacık",
+      "salata": "Çoban Salata",
+      "meyve": "Kivi",
+      "tatli": "Şekerpare"
+    },
+    {
+      "gun": "10 Temmuz",
+      "corba": "Domates Çorbası",
+      "ana_yemek": "Fırında Balık",
+      "yan_yemek": "Şehriye Pilavı",
+      "yogurt": "Yoğurt",
+      "salata": "Göbek Salata",
+      "meyve": "Portakal",
+      "tatli": "Tulumba"
+    },
+    {
+      "gun": "11 Temmuz",
+      "corba": "Yayla Çorbası",
+      "ana_yemek": "Karnıbahar Graten",
+      "yan_yemek": "Pirinç Pilavı",
+      "yogurt": "Ayran",
+      "salata": "Marul Salata",
+      "meyve": "Kiraz",
+      "tatli": "Trileçe"
+    },
+    {
+      "gun": "12 Temmuz",
+      "corba": "Ezogelin Çorbası",
+      "ana_yemek": "Etli Taze Fasulye",
+      "yan_yemek": "Makarna",
+      "yogurt": "Cacık",
+      "salata": "Roka Salatası",
+      "meyve": "Kayısı",
+      "tatli": "Sütlaç"
+    },
+    {
+      "gun": "13 Temmuz",
+      "corba": "Sebze Çorbası",
+      "ana_yemek": "Patlıcan Musakka",
+      "yan_yemek": "Bulgur Pilavı",
+      "yogurt": "Yoğurt",
+      "salata": "Çoban Salata",
+      "meyve": "Üzüm",
+      "tatli": "Revani"
+    },
+    {
+      "gun": "14 Temmuz",
+      "corba": "Mercimek Çorbası",
+      "ana_yemek": "Izgara Tavuk",
+      "yan_yemek": "Pirinç Pilavı",
+      "yogurt": "Ayran",
+      "salata": "Mevsim Salata",
+      "meyve": "Elma",
+      "tatli": "Kazandibi"
+    },
+    {
+      "gun": "15 Temmuz",
+      "corba": "Tarhana Çorbası",
+      "ana_yemek": "Lahmacun",
+      "yan_yemek": "Şehriye Pilavı",
+      "yogurt": "Cacık",
+      "salata": "Göbek Salata",
+      "meyve": "Kavun",
+      "tatli": "Baklava"
+    },
+    {
+      "gun": "16 Temmuz",
+      "corba": "Domates Çorbası",
+      "ana_yemek": "Etli Nohut",
+      "yan_yemek": "Makarna",
+      "yogurt": "Yoğurt",
+      "salata": "Mor Lahana Salatası",
+      "meyve": "Karpuz",
+      "tatli": "Kadayıf"
+    },
+    {
+      "gun": "17 Temmuz",
+      "corba": "Yayla Çorbası",
+      "ana_yemek": "Fırında Makarna",
+      "yan_yemek": "Bulgur Pilavı",
+      "yogurt": "Ayran",
+      "salata": "Çoban Salata",
+      "meyve": "Erik",
+      "tatli": "Güllaç"
+    },
+    {
+      "gun": "18 Temmuz",
+      "corba": "Ezogelin Çorbası",
+      "ana_yemek": "Karnıyarık",
+      "yan_yemek": "Pirinç Pilavı",
+      "yogurt": "Cacık",
+      "salata": "Mevsim Salata",
+      "meyve": "Muz",
+      "tatli": "Sütlaç"
+    },
+    {
+      "gun": "19 Temmuz",
+      "corba": "Sebze Çorbası",
+      "ana_yemek": "Izgara Köfte",
+      "yan_yemek": "Makarna",
+      "yogurt": "Yoğurt",
+      "salata": "Roka Salatası",
+      "meyve": "Armut",
+      "tatli": "Revani"
+    },
+    {
+      "gun": "20 Temmuz",
+      "corba": "Mercimek Çorbası",
+      "ana_yemek": "Tavuk Sote",
+      "yan_yemek": "Bulgur Pilavı",
+      "yogurt": "Ayran",
+      "salata": "Göbek Salata",
+      "meyve": "Kivi",
+      "tatli": "Kazandibi"
+    },
+    {
+      "gun": "21 Temmuz",
+      "corba": "Domates Çorbası",
+      "ana_yemek": "Etli Bezelye",
+      "yan_yemek": "Pirinç Pilavı",
+      "yogurt": "Cacık",
+      "salata": "Çoban Salata",
+      "meyve": "Portakal",
+      "tatli": "Baklava"
+    },
+    {
+      "gun": "22 Temmuz",
+      "corba": "Yayla Çorbası",
+      "ana_yemek": "Fırında Tavuk",
+      "yan_yemek": "Makarna",
+      "yogurt": "Yoğurt",
+      "salata": "Kıvırcık Salata",
+      "meyve": "Kiraz",
+      "tatli": "Keşkül"
+    },
+    {
+      "gun": "23 Temmuz",
+      "corba": "Ezogelin Çorbası",
+      "ana_yemek": "Kuzu Tandır",
+      "yan_yemek": "Şehriye Pilavı",
+      "yogurt": "Cacık",
+      "salata": "Mor Lahana Salatası",
+      "meyve": "Şeftali",
+      "tatli": "Tulumba"
+    },
+    {
+      "gun": "24 Temmuz",
+      "corba": "Sebze Çorbası",
+      "ana_yemek": "Patatesli Tavuk",
+      "yan_yemek": "Pirinç Pilavı",
+      "yogurt": "Yoğurt",
+      "salata": "Göbek Salata",
+      "meyve": "Kayısı",
+      "tatli": "Güllaç"
+    },
+    {
+      "gun": "25 Temmuz",
+      "corba": "Tarhana Çorbası",
+      "ana_yemek": "Etli Taze Fasulye",
+      "yan_yemek": "Bulgur Pilavı",
+      "yogurt": "Ayran",
+      "salata": "Mevsim Salata",
+      "meyve": "Elma",
+      "tatli": "Sütlaç"
+    },
+    {
+      "gun": "26 Temmuz",
+      "corba": "Tavuk Çorbası",
+      "ana_yemek": "Patlıcan Musakka",
+      "yan_yemek": "Makarna",
+      "yogurt": "Cacık",
+      "salata": "Çoban Salata",
+      "meyve": "Muz",
+      "tatli": "Revani"
+    },
+    {
+      "gun": "27 Temmuz",
+      "corba": "Mercimek Çorbası",
+      "ana_yemek": "Izgara Tavuk",
+      "yan_yemek": "Pirinç Pilavı",
+      "yogurt": "Yoğurt",
+      "salata": "Roka Salatası",
+      "meyve": "Üzüm",
+      "tatli": "Kazandibi"
+    },
+    {
+      "gun": "28 Temmuz",
+      "corba": "Domates Çorbası",
+      "ana_yemek": "Karnıyarık",
+      "yan_yemek": "Bulgur Pilavı",
+      "yogurt": "Cacık",
+      "salata": "Göbek Salata",
+      "meyve": "Armut",
+      "tatli": "Baklava"
+    },
+    {
+      "gun": "29 Temmuz",
+      "corba": "Yayla Çorbası",
+      "ana_yemek": "Izgara Köfte",
+      "yan_yemek": "Makarna",
+      "yogurt": "Yoğurt",
+      "salata": "Çoban Salata",
+      "meyve": "Erik",
+      "tatli": "Tulumba"
+    },
+    {
+      "gun": "30 Temmuz",
+      "corba": "Ezogelin Çorbası",
+      "ana_yemek": "Tavuk Sote",
+      "yan_yemek": "Şehriye Pilavı",
+      "yogurt": "Ayran",
+      "salata": "Mevsim Salata",
+      "meyve": "Kiraz",
+      "tatli": "Keşkül"
+    },
+    {
+      "gun": "31 Temmuz",
+      "corba": "Sebze Çorbası",
+      "ana_yemek": "Kuzu Tandır",
+      "yan_yemek": "Pirinç Pilavı",
+      "yogurt": "Cacık",
+      "salata": "Göbek Salata",
+      "meyve": "Şeftali",
+      "tatli": "Güllaç"
+    }
+  ]
