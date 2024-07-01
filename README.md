@@ -28,3 +28,7 @@ ensuring enhanced performance and user experience.
 
 ![image](https://github.com/Halil3509/Kuika-AI-Hackathon/assets/79845872/e7f7b7d8-afcf-4fb1-9c47-90d885252b20)
 
+For more detailed information or inquiries, feel free to reach out to us via email at halil7hatun@gmail.com or ensarcitak1@gmail.com.  
+
+Stay inspired and goodbye for now!
+
