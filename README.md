@@ -1,13 +1,14 @@
 In this AI Hackathon conducted by Kuika, we had 24 hours to create something innovative. We developed a chatbot that assists the company in various areas, 
 including data interpretation and analysis, particularly for production data.
 The chatbot also provides information on personal leave entitlements, service details, and general documents such as PDFs, Word files, and PPTX presentations.
-![WhatsApp Image 2024-06-30 at 11 26 23 AM](https://github.com/Halil3509/Kuika-AI-Hackathon/assets/79845872/2277c809-6852-483f-b292-e2e5e36c0ca1)
+
+<img src="./Images/us.jpeg" alt="Us Image" width="300" />
 
 As part of our software architecture, we employ Flask as the API framework to facilitate seamless communication between our 
 Flutter mobile applications and Next.js web interfaces. For our vector databases, we utilize Mongo Vector Search, ChromaDB, and Pgvector, ensuring efficient and scalable data retrieval.
 To guarantee robust and reliable connections, we implement **LangChain and Langraph technologies**, enhancing our system's overall performance and integration capabilities.
 
-![WhatsApp Image 2024-06-30 at 11 35 22 AM](https://github.com/Halil3509/Kuika-AI-Hackathon/assets/79845872/b6af302a-34d6-440a-b07f-8ace868dd86d)
+<img src="./Images/soft_arc.jpeg" alt="Soft Arc Image" width="300" />
 
 These are our plans according to the timeline. We developed our product gradually, focusing on continuous optimization. Consequently, 
 we paid close attention to our plans and strategies to ensure the product operates efficiently and effectively.
