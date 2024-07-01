@@ -21,3 +21,4 @@ fastembed
 langchain-groq
 sentence-transformers
 pillow
+tiktoken

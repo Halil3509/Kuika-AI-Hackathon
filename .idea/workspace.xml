@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01941291-0a6b-4e21-a5ce-63fc4fadf456" name="Changes" comment="Requirements.txt">
-      <change afterPath="$PROJECT_DIR$/temp.ipynb" afterDir="false" />
+    <list default="true" id="01941291-0a6b-4e21-a5ce-63fc4fadf456" name="Changes" comment="pycharm form of the code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chroma_db/4dde3c98-f7a9-452f-98ba-9562055386a0/length.bin" beforeDir="false" afterPath="$PROJECT_DIR$/chroma_db/4dde3c98-f7a9-452f-98ba-9562055386a0/length.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph_node_defining.py" beforeDir="false" afterPath="$PROJECT_DIR$/graph_node_defining.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -35,20 +38,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "halil-ibo",
-    "last_opened_file_path": "C:/Users/halilibrahim.hatun/Documents/Kuika-AI-Hackathon",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;halil-ibo&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/halilibrahim.hatun/Documents/Kuika-AI-Hackathon&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -65,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719641722645</updated>
       <workItem from="1719641723969" duration="3447000" />
-      <workItem from="1719655896885" duration="2689000" />
+      <workItem from="1719655896885" duration="10317000" />
     </task>
     <task id="LOCAL-00001" summary="Requirements.txt">
       <option name="closed" value="true" />
@@ -75,7 +78,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719642411186</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="pycharm form of the code">
+      <option name="closed" value="true" />
+      <created>1719724681150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719724681150</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Requirements.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Requirements.txt" />
+    <MESSAGE value="pycharm form of the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="pycharm form of the code" />
   </component>
 </project>
