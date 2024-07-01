@@ -1,4 +1,4 @@
-In this AI Hackathon conducted by Kuaika, we had 24 hours to create something innovative. We developed a chatbot that assists the company in various areas, 
+In this AI Hackathon conducted by Kuika, we had 24 hours to create something innovative. We developed a chatbot that assists the company in various areas, 
 including data interpretation and analysis, particularly for production data.
 The chatbot also provides information on personal leave entitlements, service details, and general documents such as PDFs, Word files, and PPTX presentations.
 ![WhatsApp Image 2024-06-30 at 11 26 23 AM](https://github.com/Halil3509/Kuika-AI-Hackathon/assets/79845872/2277c809-6852-483f-b292-e2e5e36c0ca1)
