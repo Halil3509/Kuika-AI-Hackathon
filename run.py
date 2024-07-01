@@ -1,4 +1,7 @@
 
+from graph import app
+from pprint import pprint
+
 def predict(text: str):
     inputs = {"question": text}
 
