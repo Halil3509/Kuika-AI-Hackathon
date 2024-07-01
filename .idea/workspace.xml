@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01941291-0a6b-4e21-a5ce-63fc4fadf456" name="Changes" comment="Delete postgres.env file">
-      <change beforePath="$PROJECT_DIR$/.idea/Kuika-AI-Hackathon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Kuika-AI-Hackathon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add_Data_to_MongoDB.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Add_Data_to_MongoDB.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Add_data_to_Chroma_DB.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Add_data_to_Chroma_DB.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mongo_Vectoring.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Mongo_Vectoring.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RAG_with_postgresql.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RAG_with_postgresql.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +86,7 @@
       <updated>1719641722645</updated>
       <workItem from="1719641723969" duration="3447000" />
       <workItem from="1719655896885" duration="10317000" />
-      <workItem from="1719738801607" duration="4051000" />
+      <workItem from="1719738801607" duration="4437000" />
     </task>
     <task id="LOCAL-00001" summary="Requirements.txt">
       <option name="closed" value="true" />
