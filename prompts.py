@@ -22,15 +22,12 @@ import psycopg2
 import numpy as np
 import ast
 
-os.environ['OPENAI_API_KEY'] = 'sk-proj-TimFt1navUqB43NoKCkST3BlbkFJULiZCwo4pYZg1DH4upnq'
+os.environ['OPENAI_API_KEY'] = '<openAI_key>'
 
-os.environ['MONGO_DB_KEY'] = "IobZyvpsBcQRbNlS"
-os.environ['MONGO_DB_CON_STRING'] = \
-f"mongodb+srv://halil10hatun:{os.environ['MONGO_DB_KEY']}@mycluster.jzt34j1.mongodb.net/?retryWrites=true&w=majority&appName=MyCluster"
+os.environ['MONGO_DB_KEY'] = "<MongoDB key>"
+os.environ['MONGO_DB_CON_STRING'] = "<MongoDB connection string>"
 
-env_vars = dotenv_values('postgres.env')
-
-
+env_vars = dotenv_values('<postgres.env_path>')
 
 
 def get_gpt_llm():

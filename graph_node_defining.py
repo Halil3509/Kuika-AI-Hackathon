@@ -21,7 +21,7 @@ chroma_db = Chroma(persist_directory=CHROMA_PATH, embedding_function=embedding_f
 
 
 
-env_vars = dotenv_values('postgres.env')
+env_vars = dotenv_values('<postgres.env_path>')
 
 class MyConfig(object):
    pass
